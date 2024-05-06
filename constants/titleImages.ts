@@ -199,4 +199,20 @@ export const titleImages = [
     filename: "2024041812470200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "アタマ屋の　大王",
   },
+  {
+    filename: "2024042114473500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "爽快な　フレーバー",
+  },
+  {
+    filename: "2024042114480200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "トゲトゲの　配管工",
+  },
+  {
+    filename: "2024042114480800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "新卒の　超人",
+  },
+  {
+    filename: "2024042811040800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ムキムキの　ホクサイ使い",
+  },
 ];
