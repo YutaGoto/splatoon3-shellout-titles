@@ -215,4 +215,65 @@ export const titleImages = [
     filename: "2024042811040800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "ムキムキの　ホクサイ使い",
   },
+
+  {
+    filename: "2024050720493500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "電光石火の　オカシラ",
+  },
+  {
+    filename: "2024051913031400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "何も知らない　大群",
+  },
+  {
+    filename: "2024051913034200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "うっとりする　人材",
+  },
+  {
+    filename: "2024051913035400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ビビッドな　ロボット",
+  },
+  {
+    filename: "2024051913040200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "華がある　ひとりごと",
+  },
+  {
+    filename: "2024051913042000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "自由自在な　サメライド使い",
+  },
+  {
+    filename: "2024051913043200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ゴールド　カラダ",
+  },
+  {
+    filename: "2024051913053200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "しおらしい　首位打者",
+  },
+  {
+    filename: "2024051913054900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "グレート　クラッシュブラスター使い",
+  },
+  {
+    filename: "2024051913063600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ワイプアウトの　モデル",
+  },
+  {
+    filename: "2024052020454600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "船酔いした　バッター",
+  },
+  {
+    filename: "2024052410170000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ザッカ屋の　カメ",
+  },
+  {
+    filename: "2024052610481700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ハイカラシティの　プランナー",
+  },
+  {
+    filename: "2024052818425700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "あっさり　サラブレッド",
+  },
+  {
+    filename: "2024053010021200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "雷の　考案者",
+  },
 ];
