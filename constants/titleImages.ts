@@ -276,4 +276,48 @@ export const titleImages = [
     filename: "2024053010021200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "雷の　考案者",
   },
+  {
+    filename: "2024053110531500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "正統派　アナログゲーマー",
+  },
+  {
+    filename: "2024060112550100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "目立つ　エゾッコリー好き",
+  },
+  {
+    filename: "2024060209443100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "絶好調の　豪傑",
+  },
+  {
+    filename: "2024060319053200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "10本足の　DNA",
+  },
+  {
+    filename: "2024060421020000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "実在しない　ドラゴン",
+  },
+  {
+    filename: "2024060519382700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "泣く子もだまる　浪人",
+  },
+  {
+    filename: "2024060718020600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "のしあがる　参謀",
+  },
+  {
+    filename: "2024060812074900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "あっぱれ　エクスプロッシャー使い",
+  },
+  {
+    filename: "2024060909044000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "さっぱりした　プリン",
+  },
+  {
+    filename: "2024061019521500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ざわざわする　コジャケ",
+  },
+  {
+    filename: "2024061119014800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "元気な　タコゾネス",
+  },
 ];
