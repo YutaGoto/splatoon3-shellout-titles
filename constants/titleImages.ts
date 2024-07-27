@@ -320,4 +320,72 @@ export const titleImages = [
     filename: "2024061119014800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "元気な　タコゾネス",
   },
+  {
+    filename: "2024061720214200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "頭脳明晰な　天才",
+  },
+  {
+    filename: "2024061720234200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "感動の　エンディング",
+  },
+  {
+    filename: "2024061819033900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "バリバリの　むぞうさ",
+  },
+  {
+    filename: "2024062309183700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "昼型の　シーフード",
+  },
+  {
+    filename: "2024062509163000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "人望のある　仙人",
+  },
+  {
+    filename: "2024062711165400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "抽象的な　ボス",
+  },
+  {
+    filename: "2024063009385300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "インスタント　ジャズ",
+  },
+  {
+    filename: "2024070120215200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "体育会形　ピン芸人",
+  },
+  {
+    filename: "2024070410054500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ミラクル　書記",
+  },
+  {
+    filename: "2024070609445600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "仮初めの　キャッチャー",
+  },
+  {
+    filename: "2024071414123200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "グランジ　道化師",
+  },
+  {
+    filename: "2024071414124600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "I LOVE　Rブラスターエリート使い",
+  },
+  {
+    filename: "2024071414132800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ただの　キンギョ",
+  },
+  {
+    filename: "2024071618315900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "名もなき　荒くれ者",
+  },
+  {
+    filename: "2024071910005000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "自称　親方",
+  },
+  {
+    filename: "2024072009233600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "誠実な　ラッパー",
+  },
+  {
+    filename: "2024072110453600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "お手ごろな　もどき",
+  },
 ];
