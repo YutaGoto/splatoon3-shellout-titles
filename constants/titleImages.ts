@@ -388,4 +388,36 @@ export const titleImages = [
     filename: "2024072110453600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "お手ごろな　もどき",
   },
+  {
+    filename: "2024073020362700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "礼儀正しい　ジョー",
+  },
+  {
+    filename: "2024081014382700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "金欠の　ビッグネーム",
+  },
+  {
+    filename: "2024081014384100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "シェルター界の　パラシェルター使い",
+  },
+  {
+    filename: "2024081014385700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "シューター界の　ハウスキーパー",
+  },
+  {
+    filename: "2024081014393300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "健全な　ガチヤグラ好き",
+  },
+  {
+    filename: "2024081109524400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "くじ引きの　当選者",
+  },
+  {
+    filename: "2024081109525000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "漆黒の　ホープ",
+  },
+  {
+    filename: "2024081319064100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "モッズ　プロジェクトマネージャー",
+  },
 ];
