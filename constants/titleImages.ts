@@ -1,4 +1,9 @@
-export const titleImages = [
+export interface TitleImage {
+  filename: string;
+  title: string;
+}
+
+export const titleImages: TitleImage[] = [
   {
     filename: "2022100621004700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "休日の　プログラマー",
