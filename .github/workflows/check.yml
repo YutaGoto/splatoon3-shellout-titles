@@ -1,5 +1,11 @@
 name: deno check
-on: push
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
 
 jobs:
   check:
