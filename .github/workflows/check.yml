@@ -13,14 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: Kesin11/actions-timeline@v2
       - name: Clone repository
         uses: actions/checkout@v4
-
       - name: Install Deno
         uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-
       - name: Check step
-        run: "deno task check"
-
+        run: deno task check
