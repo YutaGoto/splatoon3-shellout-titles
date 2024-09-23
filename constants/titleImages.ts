@@ -425,4 +425,84 @@ export const titleImages: TitleImage[] = [
     filename: "2024081319064100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "モッズ　プロジェクトマネージャー",
   },
+  {
+    filename: "2024081918110300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "純粋な　フク屋常連",
+  },
+  {
+    filename: "2024082118330300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ダイナミックな　ホットブラスター使い",
+  },
+  {
+    filename: "2024082318314700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "難破船ドン・ブラコの　サイボーグ",
+  },
+  {
+    filename: "2024082819131600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "センスがある　受験生",
+  },
+  {
+    filename: "2024082910382000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "マイブームは　絵師",
+  },
+  {
+    filename: "2024090219035000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "威勢のいい　裏方",
+  },
+  {
+    filename: "2024090810050800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "オリジナル　お祭り好き",
+  },
+  {
+    filename: "2024091020274200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "グッド　エゾッコ好き",
+  },
+  {
+    filename: "2024091409544200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "世渡り上手な　著者",
+  },
+  {
+    filename: "2024091409544600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "大好きな　インク",
+  },
+  {
+    filename: "2024091521275200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "電脳　合唱",
+  },
+  {
+    filename: "2024091521290400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "いそがしい　カルテット",
+  },
+  {
+    filename: "2024091521292400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "バッテリー満タンの　定食",
+  },
+  {
+    filename: "2024091521293600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "例えるなら　ボウズ",
+  },
+  {
+    filename: "2024091521314600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "タラポートショッピングパークの　ジュークボックス",
+  },
+  {
+    filename: "2024091521315600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "スリーブに入った　スプラスピナー使い",
+  },
+  {
+    filename: "2024091521322400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ワイルドな　方程式",
+  },
+  {
+    filename: "2024091521323900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "金イクラの　小悪魔",
+  },
+  {
+    filename: "2024091521342800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "涙の　ロンゲ",
+  },
+  {
+    filename: "2024091521352500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ピュアな　二枚貝",
+  },
 ];
