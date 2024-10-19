@@ -505,4 +505,44 @@ export const titleImages: TitleImage[] = [
     filename: "2024091521352500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "ピュアな　二枚貝",
   },
+  {
+    filename: "2024091719102000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "塗りの　上級者",
+  },
+  {
+    filename: "2024091918233700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "今日も一日　にせもの",
+  },
+  {
+    filename: "2024091918255600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "かぐわしい　From Bottomファン",
+  },
+  {
+    filename: "2024092110420400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "モーレツな　ライフスタイル",
+  },
+  {
+    filename: "2024092211314100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "イカした　写真家",
+  },
+  {
+    filename: "2024092419013400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "そんなこんなで　バイリンガル",
+  },
+  {
+    filename: "2024092911473600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "おおざっぱな　OCTOTOOLファン",
+  },
+  {
+    filename: "2024093017381600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "デラックス　キンシャケ",
+  },
+  {
+    filename: "2024100117062100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "聖なる　タイプ",
+  },
+  {
+    filename: "2024101019183300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "冬色の　ゲスト",
+  },
 ];
