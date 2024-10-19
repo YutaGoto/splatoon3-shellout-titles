@@ -13,5 +13,5 @@
   "exclude": ["**/_fresh/*"],
   "importMap": "./import_map.json",
   "compilerOptions": { "jsx": "react-jsx", "jsxImportSource": "preact" },
-  "nodeModulesDir": true
+  "nodeModulesDir": "auto"
 }
