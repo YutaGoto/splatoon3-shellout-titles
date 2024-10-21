@@ -2,6 +2,7 @@ import { TitleCard } from "../components/TitleCard.tsx";
 import { TitleImage, titleImages } from "../constants/titleImages.ts";
 import { SearchBox } from "../components/SearchBox.tsx";
 import { Handlers, PageProps } from "$fresh/server.ts";
+import IconBrandGithub from "$tabler_icons/brand-github.tsx";
 
 interface Data {
   results: TitleImage[];
@@ -35,6 +36,17 @@ export default function Home({ data }: PageProps<Data>) {
           {results.map((titleImage) => {
             return <TitleCard titleImage={titleImage} />;
           })}
+        </div>
+
+        <div class="mt-4">
+          <a
+            href="https://github.com/YutaGoto/splatoon3-shellout-titles"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[#eaff3d]"
+          >
+            <IconBrandGithub class="w-6 h-6" />
+          </a>
         </div>
       </div>
     </div>
