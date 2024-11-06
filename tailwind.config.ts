@@ -10,6 +10,12 @@ export default {
         "sans-serif",
       ],
     },
+    extend: {
+      colors: {
+        "purple": "#603bff",
+        "yellow": "#eaff3d",
+      },
+    },
   },
   content: [
     "{routes,islands,components}/**/*.{ts,tsx}",
