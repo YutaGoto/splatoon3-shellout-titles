@@ -24,9 +24,9 @@ export default function Home({ data }: PageProps<Data>) {
   const { results, query } = data;
 
   return (
-    <div class="px-4 py-8 mx-auto bg-[#603bff]">
+    <div class="px-4 py-8 mx-auto bg-purple">
       <div class="max-w-screen-lg mx-auto flex flex-col items-center justify-center">
-        <h1 class="text-3xl font-bold text-[#eaff3d]">
+        <h1 class="text-3xl font-bold text-yellow">
           Splatoon3 ランダム二つ名
         </h1>
 
@@ -43,7 +43,7 @@ export default function Home({ data }: PageProps<Data>) {
             href="https://github.com/YutaGoto/splatoon3-shellout-titles"
             target="_blank"
             rel="noopener noreferrer"
-            class="text-[#eaff3d]"
+            class="text-yellow"
           >
             <IconBrandGithub class="w-6 h-6" />
           </a>
