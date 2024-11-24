@@ -545,4 +545,24 @@ export const titleImages: TitleImage[] = [
     filename: "2024101019183300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "冬色の　ゲスト",
   },
+  {
+    filename: "2024102712482600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ダーク　スクリュースロッシャー使い",
+  },
+  {
+    filename: "2024110117550000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ブキ屋の　Front Roeファン",
+  },
+  {
+    filename: "2024110517463700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "飛び回る　6年生",
+  },
+  {
+    filename: "2024110718342800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "いつもの　おでん",
+  },
+  {
+    filename: "2024112310292900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "マニアックな　開拓者",
+  },
 ];
