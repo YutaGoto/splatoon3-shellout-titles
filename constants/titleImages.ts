@@ -565,4 +565,56 @@ export const titleImages: TitleImage[] = [
     filename: "2024112310292900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "マニアックな　開拓者",
   },
+  {
+    filename: "2024112622250000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ミュート中の　代理人",
+  },
+  {
+    filename: "2024113010353200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "貫き通す　カタパッド",
+  },
+  {
+    filename: "2024113010353900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "型破りな　バトロイカ好き",
+  },
+  {
+    filename: "2024120614482500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "パンク　リス",
+  },
+  {
+    filename: "2024121311462000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "図太い　壁武者",
+  },
+  {
+    filename: "2024121509404200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "おだやかな　協力者",
+  },
+  {
+    filename: "2024121619095800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "アウトドアな　バーサーカー",
+  },
+  {
+    filename: "2024121818593100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "アマチュア　高校生",
+  },
+  {
+    filename: "2024122114003900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "新年の　ニット好き",
+  },
+  {
+    filename: "2024122210351900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "過去から来た　イクラ",
+  },
+  {
+    filename: "2024122714471200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "古着　塩",
+  },
+  {
+    filename: "2024122813063800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "めでたい　新郎新婦",
+  },
+  {
+    filename: "2024122813072500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "寝転ぶ　すりみ連合ファン",
+  },
 ];
