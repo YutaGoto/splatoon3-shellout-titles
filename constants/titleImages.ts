@@ -617,4 +617,56 @@ export const titleImages: TitleImage[] = [
     filename: "2024122813072500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "寝転ぶ　すりみ連合ファン",
   },
+  {
+    filename: "2025010116402400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "俊足の　探偵",
+  },
+  {
+    filename: "2025010218031900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "科学的な　カタマリ",
+  },
+  {
+    filename: "2025010511255800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "なんちゃって　おとうと　いもうと",
+  },
+  {
+    filename: "2025010511260100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "キレがある　カブトガニ",
+  },
+  {
+    filename: "2025010619584400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "明るい　タマゴ",
+  },
+  {
+    filename: "2025010820512800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "余裕のある　ハムスター",
+  },
+  {
+    filename: "2025011110202300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ハイカラスクエアの　マンタ",
+  },
+  {
+    filename: "2025011212520400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "シュールな　バレルスピナー使い",
+  },
+  {
+    filename: "2025011212521000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "気まぐれな　ドライバー",
+  },
+  {
+    filename: "2025011212521600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "発行する　ウィークポイント",
+  },
+  {
+    filename: "2025011212524200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "あいまいな　ギャラリー",
+  },
+  {
+    filename: "2025011212525100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "333倍　パイロット",
+  },
+  {
+    filename: "2025011212530300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "健康的な　タレント",
+  },
 ];
