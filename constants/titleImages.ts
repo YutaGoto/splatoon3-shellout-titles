@@ -647,26 +647,138 @@ export const titleImages: TitleImage[] = [
   },
   {
     filename: "2025011212520400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
-    title: "シュールな　バレルスピナー使い",
+    title: "健康的な　タレント",
   },
   {
     filename: "2025011212521000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
-    title: "気まぐれな　ドライバー",
+    title: "シュールな　バレルスピナー使い",
   },
   {
     filename: "2025011212521600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
-    title: "発行する　ウィークポイント",
+    title: "気まぐれな　ドライバー",
   },
   {
     filename: "2025011212524200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
-    title: "あいまいな　ギャラリー",
+    title: "発行する　ウィークポイント",
   },
   {
     filename: "2025011212525100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
-    title: "333倍　パイロット",
+    title: "あいまいな　ギャラリー",
   },
   {
     filename: "2025011212530300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
-    title: "健康的な　タレント",
+    title: "333倍　パイロット",
+  },
+  {
+    filename: "2025011419575600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "やりすぎの　ファッションリーダー",
+  },
+  {
+    filename: "2025011518032600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "データで戦う　コンシェルジュ",
+  },
+  {
+    filename: "2025011618343100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "野菜好きの　ウツボ",
+  },
+  {
+    filename: "2025011718562300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ザ・　出汁",
+  },
+  {
+    filename: "2025011910013500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "笑顔がまぶしい　世代",
+  },
+  {
+    filename: "2025012511581200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "待望の　おじいさん　おばあさん",
+  },
+  {
+    filename: "2025012611431900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "おもしろ　御三家",
+  },
+  {
+    filename: "2025013118330400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "逃げ足の速い　オペレーター",
+  },
+  {
+    filename: "2025020115101100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "天然の　おにいさん　おねえさん",
+  },
+  {
+    filename: "2025020720263100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "繊細な　鬼才",
+  },
+  {
+    filename: "2025020810250500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "自己流の　スミナガシート使い",
+  },
+  {
+    filename: "2025020912104600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "カバーする　エリート",
+  },
+  {
+    filename: "2025020912112400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "もうまよわない　お寿司",
+  },
+  {
+    filename: "2025020912114600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "事実上の　フリーク",
+  },
+  {
+    filename: "2025020912121300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "通称　ウェービー",
+  },
+  {
+    filename: "2025021611120300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "血気盛んな　権威",
+  },
+  {
+    filename: "2025021819103400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "つめた～い　タマヒロイ",
+  },
+  {
+    filename: "2025022310292300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "閃光の　息子　娘",
+  },
+  {
+    filename: "2025022418180900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "今を楽しむ　ハシラ",
+  },
+  {
+    filename: "2025022619071400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "肉厚な　ブランド好き",
+  },
+  {
+    filename: "2025022818573900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "隠れ上手の　武士",
+  },
+  {
+    filename: "2025030115155800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ユノハナ大渓谷の　極めし者",
+  },
+  {
+    filename: "2025030809231300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "スプラトゥーンの　ホップソナー使い",
+  },
+  {
+    filename: "2025030910494500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "すさまじい　魔王",
+  },
+  {
+    filename: "2025030910494700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "休憩中の　大商人",
+  },
+  {
+    filename: "2025030910494900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "チルい　四天王",
+  },
+  {
+    filename: "2025031020463800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "でんせつの　エース",
+  },
+  {
+    filename: "2025031020475500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "暴れん坊な　子孫",
   },
 ];
