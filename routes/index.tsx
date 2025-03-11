@@ -34,7 +34,7 @@ export default function Home({ data }: PageProps<Data>) {
 
         <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-2 mt-4">
           {results.map((titleImage) => {
-            return <TitleCard titleImage={titleImage} />;
+            return <TitleCard titleImage={titleImage} key={titleImage.title} />;
           })}
         </div>
 
