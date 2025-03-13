@@ -14,8 +14,8 @@ export const TitleCard = ({ titleImage }: TitleCardProps) => {
       <img
         src={`/titleImages/${titleImage.filename}`}
         alt={titleImage.title}
-        loading={"lazy"}
-        decoding={"async"}
+        loading="lazy"
+        decoding="async"
       />
     </div>
   );
