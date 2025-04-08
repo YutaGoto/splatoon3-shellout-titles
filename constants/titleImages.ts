@@ -781,4 +781,40 @@ export const titleImages: TitleImage[] = [
     filename: "2025031020475500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "暴れん坊な　子孫",
   },
+  {
+    filename: "2025031119295700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "完全燃焼した　ファッショニスタ",
+  },
+  {
+    filename: "2025031221352500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "バンカラマッチの　修行僧",
+  },
+  {
+    filename: "2025031918564000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "いちねんまえの　タイトルホルダー",
+  },
+  {
+    filename: "2025032318092500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "生きがいは　めがねっ子",
+  },
+  {
+    filename: "2025032318100800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "義理がたい　おつまみ",
+  },
+  {
+    filename: "2025032819314200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "想像以上に　嵐",
+  },
+  {
+    filename: "2025040119463600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ユニークな　スプラチャージャー使い",
+  },
+  {
+    filename: "2025040119473600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "染まらない　船長",
+  },
+  {
+    filename: "2025040518425700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "カジキ空港の　ガチエリア好き",
+  },
 ];
