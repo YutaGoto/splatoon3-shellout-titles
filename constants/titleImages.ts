@@ -817,4 +817,64 @@ export const titleImages: TitleImage[] = [
     filename: "2025040518425700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "カジキ空港の　ガチエリア好き",
   },
+  {
+    filename: "2025040918461000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "物静かな　重鎮",
+  },
+  {
+    filename: "2025041209345400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "自宅の　AI",
+  },
+  {
+    filename: "2025041309591300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ふつうの　ロングブラスター使い",
+  },
+  {
+    filename: "2025041312212800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ふてぶてしい　クラゲ",
+  },
+  {
+    filename: "2025041312213500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ありったけの　カーリーヘア",
+  },
+  {
+    filename: "2025041312224700-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "破天荒な　源",
+  },
+  {
+    filename: "2025041312231600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ヒーローになりたい　コアラ",
+  },
+  {
+    filename: "2025041419131900-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "真っ青な　バクダン",
+  },
+  {
+    filename: "2025041519231600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "北太平洋の　マネージャー",
+  },
+  {
+    filename: "2025041619065400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "サバサバした　ナンバーワン",
+  },
+  {
+    filename: "2025041910311500-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "紅の　リーゼント",
+  },
+  {
+    filename: "2025041910325200-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "腰が低い　刺身",
+  },
+  {
+    filename: "2025042518294300-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "New！　騎士団",
+  },
+  {
+    filename: "2025042819252600-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "大量の　ギター",
+  },
+  {
+    filename: "2025042911010400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "いつも心に　ゆるキャラ",
+  },
 ];
