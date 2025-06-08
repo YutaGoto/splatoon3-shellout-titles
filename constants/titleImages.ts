@@ -877,4 +877,20 @@ export const titleImages: TitleImage[] = [
     filename: "2025042911010400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "いつも心に　ゆるキャラ",
   },
+  {
+    filename: "2025051423115000-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "イキのいい　美食家",
+  },
+  {
+    filename: "2025051919042100-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "うっかりものの　グリル",
+  },
+  {
+    filename: "2025052519153800-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "ワイパー界の　楽器",
+  },
+  {
+    filename: "2025060418172400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "やわらかい　YOKO HORNS & FRIENDSファン",
+  },
 ];
