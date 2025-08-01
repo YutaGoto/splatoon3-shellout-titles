@@ -893,4 +893,108 @@ export const titleImages: TitleImage[] = [
     filename: "2025060418172400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
     title: "やわらかい　YOKO HORNS & FRIENDSファン",
   },
+  {
+    filename: "2025060809424400-4CE9651EE88A979D41F24CE8D6EA1C23.jpg",
+    title: "いつまでも　さざ波",
+  },
+  {
+    filename: "2025061222510200-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "不屈の　警備員",
+  },
+  {
+    filename: "2025061410102000-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "クリエイティブな　ガキ大将",
+  },
+  {
+    filename: "2025061620353800-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "夜明けの　虫",
+  },
+  {
+    filename: "2025061723204600-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "芸術的な　パーティー",
+  },
+  {
+    filename: "2025062210313700-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "わかりやすい　司会者",
+  },
+  {
+    filename: "2025062321234200-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "甘えん坊な　ゲーマー",
+  },
+  {
+    filename: "2025062419235600-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "覇気がある　ヤコ好き",
+  },
+  {
+    filename: "2025063021573700-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "いちずな　バンジージャンプ",
+  },
+  {
+    filename: "2025063021591800-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "わがままな　タタキケンサキ好き",
+  },
+  {
+    filename: "2025070120340000-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "ゴージャスな　恐竜",
+  },
+  {
+    filename: "2025070320115800-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "接続する　キューインキ使い",
+  },
+  {
+    filename: "2025070320125900-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "混沌の　３年生",
+  },
+  {
+    filename: "2025070613304700-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "夏の　ピッチャー",
+  },
+  {
+    filename: "2025070919094500-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "名前のない　プレイヤー",
+  },
+  {
+    filename: "2025071019043400-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "アシストする　人気者",
+  },
+  {
+    filename: "2025071214553700-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "期待の　ウツボ使い",
+  },
+  {
+    filename: "2025071311353200-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "鳴りやまない　運転手",
+  },
+  {
+    filename: "2025071311361200-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "社交的な　プランクトン",
+  },
+  {
+    filename: "2025071311363300-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "ちょうどいい　未来人",
+  },
+  {
+    filename: "2025071311365000-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "水そうの中の　アメフラシ使い",
+  },
+  {
+    filename: "2025071311371200-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "アガる　キノコ",
+  },
+  {
+    filename: "2025072012213300-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "初夏の　タニシ",
+  },
+  {
+    filename: "2025072111032200-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "名誉　オオモノ",
+  },
+  {
+    filename: "2025072712180400-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "スマートな　俳優",
+  },
+  {
+    filename: "2025072712180900-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "すみっこの　ギルド",
+  },
 ];
