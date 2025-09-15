@@ -997,4 +997,12 @@ export const titleImages: TitleImage[] = [
     filename: "2025072712180900-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
     title: "すみっこの　ギルド",
   },
+  {
+    filename: "2025073119190000-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "ゆうかんな　クツ屋常連",
+  },
+  {
+    filename: "2025082620544600-4CE9651EE88A979D41F24CE8D6EA1C23L.jpg",
+    title: "ストイックな　支配者",
+  },
 ];
