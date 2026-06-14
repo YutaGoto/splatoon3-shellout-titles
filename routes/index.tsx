@@ -1,8 +1,9 @@
 import { TitleCard } from "../components/TitleCard.tsx";
 import { TitleImage, titleImages } from "../constants/titleImages.ts";
 import { SearchBox } from "../components/SearchBox.tsx";
-import { Handlers, PageProps } from "$fresh/server.ts";
+import type { PageProps } from "fresh";
 import IconBrandGithub from "$tabler_icons/brand-github.tsx";
+import type { Handlers } from "fresh/compat";
 
 interface Data {
   results: TitleImage[];
@@ -10,13 +11,13 @@ interface Data {
 }
 
 export const handler: Handlers<Data> = {
-  GET(req, ctx) {
-    const url = new URL(req.url);
+  GET(ctx) {
+    const url = new URL(ctx.req.url);
     const query = url.searchParams.get("q") || "";
     const results = titleImages.filter((titleImage) => {
       return titleImage.title.includes(query);
     });
-    return ctx.render({ results, query });
+    return { data: { results, query } };
   },
 };
 

@@ -13,7 +13,7 @@ Make sure to install Deno: https://deno.land/manual/getting_started/installation
 Then start the project:
 
 ```
-deno task start
+deno task dev
 ```
 
 This will watch the project directory and restart as necessary.
