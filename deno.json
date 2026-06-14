@@ -40,6 +40,6 @@
     "@tailwindcss/vite": "npm:@tailwindcss/vite@^4",
     "tailwindcss": "npm:tailwindcss@^4",
     "$tabler_icons/": "https://deno.land/x/tabler_icons_tsx@0.0.7/tsx/",
-    "$std/": "https://deno.land/std@0.216.0/"
+    "$std/": "https://deno.land/std@0.224.0/"
   }
 }
