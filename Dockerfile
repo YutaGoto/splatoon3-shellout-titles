@@ -1,4 +1,4 @@
-FROM denoland/deno:2.8.3 AS base
+FROM denoland/deno:2.9.8 AS base
 WORKDIR /app
 
 # Cache dependencies in a stable layer.
@@ -16,7 +16,7 @@ CMD ["deno", "task", "dev:docker"]
 FROM base AS prod-builder
 RUN deno task build
 
-FROM denoland/deno:2.8.3 AS prod-runner
+FROM denoland/deno:2.9.8 AS prod-runner
 WORKDIR /app
 ENV PORT=8000
 
