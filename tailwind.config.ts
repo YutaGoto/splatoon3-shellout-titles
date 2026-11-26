@@ -12,12 +12,10 @@ export default {
     },
     extend: {
       colors: {
-        "purple": "#603bff",
-        "yellow": "#eaff3d",
+        purple: "#603bff",
+        yellow: "#eaff3d",
       },
     },
   },
-  content: [
-    "{routes,islands,components}/**/*.{ts,tsx}",
-  ],
+  content: ["./index.html", "./src/**/*.{ts,tsx}"],
 } satisfies Config;

@@ -1,7 +1,8 @@
 import { defineConfig } from "vite";
-import { fresh } from "@fresh/plugin-vite";
+import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  plugins: [fresh(), tailwindcss()],
+  plugins: [react(), tailwindcss()],
+  publicDir: "static",
 });

@@ -1,4 +1,4 @@
-import titleImagesData from "../static/titleImages.json" with { type: "json" };
+import titleImagesData from "../../static/titleImages.json";
 
 export interface TitleImage {
   filename: string;
